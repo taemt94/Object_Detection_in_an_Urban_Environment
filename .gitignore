@@ -1,0 +1,17 @@
+data/
+.vscode/
+pretrained_model/
+*__pycache__
+*.ipynb_checkpoints/
+*.sh
+!install-ubuntu.sh
+!run_*.sh
+!base_setting.sh
+checkpoint*
+ckpt*
+dataset/
+results/
+pretrained/
+animation.gif
+1_Object_Detection_in_an_Urban_Environment/experiments/experiment5_EfficientDet/train/
+exported/
