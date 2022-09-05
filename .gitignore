@@ -14,3 +14,4 @@ results/
 pretrained/
 animation.gif
 experiments/experiment5_EfficientDet/train
+exported/
